@@ -1,0 +1,14 @@
+1. Banco de dados é uma implementação que armazena diversos dados que fazem sentido, ou seja, se relacionam entre si. Entre algumas das aplicações, estão, o gerenciamento de alunos em uma instituição, o controle de usuários que podem usar uma máquina, e o controle de mensagens em um aplicativo.
+2. Administrar, controlar e manter o banco de dados.
+3. A grande diferença é que com o banco de dados, podemos guardar muito mais informações do que com o sistema de arquivos comum.
+4. SGBDs são os sistemas gerenciadores de bancos de dados. Uma das vantagens é a facilidade em controlar os dados, e a outra é que usando esse sistema, podemos evitar vários problemas que teríamos com o sistema de arquivos comum.
+5. Nível físico: Criadores de sistemas que permitam criar bancos de dados
+Nível lógico: Desenvolvedores de aplicativos
+Nível visão: Estudantes
+6. A independência de dados ocorre quando modificamos o esquema do banco de dados, não interferindo nas partes conectadas a ele.
+7. Transação é uma mudança indevida, ou seja, quando um dado é colocado no lugar de outro sem que o usuário faça qualquer alteração. O sistema de banco de dados relacional deverá corrigir o problema, revertendo as alterações feitas.
+8. O arquivo de dados armazena o banco de dados e o dicionário de dados armazena os metadados do banco de dados.
+9. SQLite e mySQL.
+10. O MER é uma estrutura lógica, e seu papel ao planejar o banco de dados é ajudar, principalmente na organização das informações que iremos inserir no Banco de Dados.
+11. O objetivo da linguagem SQL é facilitar ao usuário, a criação de Banco de Dados e o gerenciamento de dados.
+12. Instância são informações contidas no BD em um determinado tempo, já esquema de banco de dados é o projeto do banco de dados em si, ou seja, o esqueleto do BD.
